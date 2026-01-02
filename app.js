@@ -45,4 +45,5 @@ tg.onEvent('backButtonClicked', () => {
 });
 
 // Ready to show
+
 tg.ready();
